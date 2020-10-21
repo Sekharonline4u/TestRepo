@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kdZtZpqOYm1lCvnT3VcP+66dvCg489UZcApkqV87JVB7vQTqDHkWq6IFCd9OxJaMhe0IS55G53DOELAbhI4hKg==",
+  "success": true,
+  "projectFilePath": "/Users/sekharsrinivasan/Projects/INV/test/test/test.csproj",
+  "expectedPackageFiles": [
+    "/Users/sekharsrinivasan/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/sekharsrinivasan/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/sekharsrinivasan/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/sekharsrinivasan/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/sekharsrinivasan/.nuget/packages/xamarin.forms/4.8.0.1364/xamarin.forms.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}
